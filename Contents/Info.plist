@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>applet</string>
 	<key>CFBundleIconFile</key>
-	<string>applet</string>
+	<string>SaveClipboard</string>
 	<key>CFBundleIdentifier</key>
 	<string>net.script-factory.SaveClipboard</string>
 	<key>CFBundleInfoDictionaryVersion</key>
